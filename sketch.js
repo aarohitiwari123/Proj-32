@@ -71,7 +71,7 @@ function draw() {
   hex1.x = World.mouseX;
   hex1.y = World.mouseY;
   
-  console.log(score);
+ // console.log(score);
 
   shelf1.display();
   shelf2.display();
